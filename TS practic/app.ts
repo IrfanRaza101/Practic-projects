@@ -1,1 +1,3 @@
-console.log('Hello World');
+let names: string = 'irfan';
+
+console.log(names);
